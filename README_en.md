@@ -14,7 +14,7 @@ This repository contains Sub-GHz RF signal files for the **SHENGQI 3-Speed Invis
 
 | File | Function | Frequency | Protocol |
 |------|----------|-----------|----------|
-| `Fan_off.sub` | Fan Off | 433.92 MHz | Princeton |
+| `Fan_off.sub` | Fan ON/Off | 433.92 MHz | Princeton |
 | `Fan_low.sub` | Fan Low Speed | 433.92 MHz | Princeton |
 | `Fan_mid.sub` | Fan Medium Speed | 433.92 MHz | Princeton |
 | `Fan_high.sub` | Fan High Speed | 433.92 MHz | Princeton |
