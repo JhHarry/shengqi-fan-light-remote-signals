@@ -14,7 +14,7 @@
 
 | 文件 | 功能 | 频率 | 协议 |
 |------|------|------|------|
-| `Fan_off.sub` | 风扇开关 | 433.92 MHz | Princeton |
+| `Fan_off.sub` | 风扇关闭 | 433.92 MHz | Princeton |
 | `Fan_low.sub` | 风扇低速 | 433.92 MHz | Princeton |
 | `Fan_mid.sub` | 风扇中速 | 433.92 MHz | Princeton |
 | `Fan_high.sub` | 风扇高速 | 433.92 MHz | Princeton |
